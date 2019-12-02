@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "174449356169",
+    "firebase_url": "https://dipsem2practicechallenge.firebaseio.com",
+    "project_id": "dipsem2practicechallenge",
+    "storage_bucket": "dipsem2practicechallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174449356169:android:fe2e9827b73246b91bc558",
+        "android_client_info": {
+          "package_name": "com.example.dipsem2practicechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174449356169-k0nmmc0ohvumvo01gh99guecmkg2gvpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dipsem2practicechallenge",
+            "certificate_hash": "dd74667aae1391885b8106fd27fd099e02027dfb"
+          }
+        },
+        {
+          "client_id": "174449356169-ifljrme92clvnhlave6k56vm18okbfjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9__klu3iX3rpMRWOLkzYGiQ9-8yk6TSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174449356169-ifljrme92clvnhlave6k56vm18okbfjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
